@@ -26,8 +26,8 @@ origins = [
     "http://127.0.0.1:3000",
     "http://localhost",
     "http://127.0.0.1",
-    "https://ai-blog.onrender.com",
-    "https://ai-blog.netlify.app",
+    "https://ai-blog1.onrender.com",
+    "https://ai-blog1.netlify.app",
     "file://"
 ]
 
